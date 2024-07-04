@@ -1,0 +1,21 @@
+安装HomeBrew：
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+brew install wget
+brew install git
+brew install vim
+brew install tmux
+brew install repo
+brew install tree
+brew install htop
+brew install glm
+brew install glfw
+brew install cmake
+brew install ninja
+brew install zsh-syntax-highlighting
+
+
+配置vim：
+
+
+配置zsh:
